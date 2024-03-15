@@ -396,7 +396,8 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output screen shots of serial port utility   :
 
- 
+ ![Screenshot (36)](https://github.com/shanmugavasanth/EXPERIMENT--04-INTERUPT-GENRATION-USING-SENSOR-AND-VISUALIZING-USING-SERIAL-MONITOR/assets/144870621/60d58404-dd5f-4964-9547-f16edefd6861)
+
  ## Circuit board :
  
  
