@@ -399,7 +399,8 @@ void assert_failed(uint8_t *file, uint32_t line)
  ![Screenshot (36)](https://github.com/shanmugavasanth/EXPERIMENT--04-INTERUPT-GENRATION-USING-SENSOR-AND-VISUALIZING-USING-SERIAL-MONITOR/assets/144870621/60d58404-dd5f-4964-9547-f16edefd6861)
 
  ## Circuit board :
- 
+ ![Picsart_24-03-15_08-52-11-132](https://github.com/shanmugavasanth/EXPERIMENT--04-INTERUPT-GENRATION-USING-SENSOR-AND-VISUALIZING-USING-SERIAL-MONITOR/assets/144870621/01e1969a-1456-4689-bc07-20a54c528ceb)
+
  
  
 ## Result :
