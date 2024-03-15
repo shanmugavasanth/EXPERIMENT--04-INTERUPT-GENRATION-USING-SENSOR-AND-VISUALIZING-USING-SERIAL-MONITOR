@@ -119,7 +119,6 @@ The diagram below shows how the GPIO pins are connected to the 16 interrupt line
 
 ## STM 32 CUBE PROGRAM :
 ```
-
 #include "main.h"
 #include "stdio.h"
 #if defined(__ICCARM__) || defined(__ARMCC_VERSION)
@@ -148,6 +147,7 @@ int main(void)
     
   }
 }
+
 void HAL_GPIO_EXIT_Callback(uint16_t GPIO_Pin)
 {
 	if(HAL_GPIO_ReadPin(GPIOB,GPIO_PIN_4)==1)
@@ -155,12 +155,12 @@ void HAL_GPIO_EXIT_Callback(uint16_t GPIO_Pin)
 		printf("INTERPUT GENERATED \n");
 	}
 }
+
 PUTCHAR_PROTOTYPE
 {
 	HAL_UART_Transmit(&huart2,(uint8_t *)&ch,1,0xFFFF);
 	return ch;
 }
-
 ```
 
 
